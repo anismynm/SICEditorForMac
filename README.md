@@ -15,9 +15,9 @@ SIC SRCFILE Editor For Mac
       <ul>
         <li>Append : 마지막 행에 행 추가</li>
         <li>Insert : 선택된 행 상단에 행 추가</li>
-        <li>Delete : 선택된 행 삭제</li>
-        <li>Clear : 모든 행 삭제</li>
-        <li>Save : 저장</li>
+        <li>Delete : 선택된 행 삭제</li>
+        <li>Clear : 모든 행 삭제</li>
+        <li>Save : 저장</li>
       </ul>
     </td>
   </tr>
